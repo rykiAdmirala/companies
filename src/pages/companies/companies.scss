@@ -1,0 +1,15 @@
+button.danger ion-icon {
+  color: map-get($colors, danger);
+}
+ion-modal {
+  padding: 20px;
+  background: rgba(0,0,0,0.5);
+}
+ion-modal ion-content,
+ion-modal .toolbar {
+  border-radius: 4px;
+}
+.spinner-container {
+  padding: 7px;
+  text-align: center;
+}
