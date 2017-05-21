@@ -2,8 +2,8 @@
 ## Simple CRUD mobile app based on Ionic2/AngularJS2
 
 To start this app in browser:
-clone this repo, then
- ```
+```
+$ git clone https://github.com/rykiAdmirala/companies.git
 $ cd companies
 $ npm install
 $ ionic lab
